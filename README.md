@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🧮 x8ys.com
@@ -84,4 +83,3 @@ We'd love to hear from you! If you have:
 This repository is for informational purposes. The website content and tools are © x8ys.com.
 
 See [LICENSE](LICENSE) for details.
-
