@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 # 🧮 x8ys.com
@@ -29,27 +30,27 @@ All calculations run in your browser. No data is sent to any server.
 | Category | Tools | Link |
 |----------|-------|------|
 | 🧮 Calculators | 75 | [Browse →](https://x8ys.com/category/calculator) |
-| 🔄 Unit Converters | 53 | [Browse →](https://x8ys.com/category/unit-converter) |
-| 💻 Developer Tools | 50 | [Browse →](https://x8ys.com/category/developer-tools) |
-| 📝 Text Tools | 28 | [Browse →](https://x8ys.com/category/text-tools) |
-| 🎲 Generators | 20 | [Browse →](https://x8ys.com/category/generators) |
-| 📅 Date & Time | 20 | [Browse →](https://x8ys.com/category/date-time) |
-| 🖼️ Image Tools | 15 | [Browse →](https://x8ys.com/category/image-tools) |
-| 📱 Social Media | 12 | [Browse →](https://x8ys.com/category/social-media) |
-| 🎯 CSS Tools | 12 | [Browse →](https://x8ys.com/category/css-tools) |
-| 🎰 Random Generators | 12 | [Browse →](https://x8ys.com/category/random) |
-| 🎨 Color Tools | 10 | [Browse →](https://x8ys.com/category/color-tools) |
-| 📄 PDF Tools | 10 | [Browse →](https://x8ys.com/category/pdf-tools) |
-| 📊 SEO Tools | 10 | [Browse →](https://x8ys.com/category/seo-tools) |
-| ✍️ Writing Tools | 10 | [Browse →](https://x8ys.com/category/writing-tools) |
-| ❤️ Lifestyle | 10 | [Browse →](https://x8ys.com/category/lifestyle) |
-| 🔒 Privacy Tools | 8 | [Browse →](https://x8ys.com/category/privacy-tools) |
-| 🌐 Network Tools | 8 | [Browse →](https://x8ys.com/category/network-tools) |
-| 🎵 Audio Tools | 8 | [Browse →](https://x8ys.com/category/audio-tools) |
-| 🔐 Encryption | 8 | [Browse →](https://x8ys.com/category/encryption) |
-| 🛒 E-commerce | 8 | [Browse →](https://x8ys.com/category/ecommerce) |
-| 🎓 Education | 8 | [Browse →](https://x8ys.com/category/education) |
-| 🎬 Video Tools | 7 | [Browse →](https://x8ys.com/category/video-tools) |
+| 🔄 Unit Converters | 53 | [Browse →](https://x8ys.com/category/converter) |
+| 💻 Developer Tools | 50 | [Browse →](https://x8ys.com/category/dev-tool) |
+| 📝 Text Tools | 28 | [Browse →](https://x8ys.com/category/text-tool) |
+| 🎲 Generators | 20 | [Browse →](https://x8ys.com/category/generator) |
+| 📅 Date & Time | 20 | [Browse →](https://x8ys.com/category/date-tool) |
+| 🖼️ Image Tools | 15 | [Browse →](https://x8ys.com/category/image-tool) |
+| 📱 Social Media | 12 | [Browse →](https://x8ys.com/category/social-tool) |
+| 🎯 CSS Tools | 12 | [Browse →](https://x8ys.com/category/css-tool) |
+| 🎰 Random Generators | 12 | [Browse →](https://x8ys.com/category/random-tool) |
+| 🎨 Color Tools | 10 | [Browse →](https://x8ys.com/category/color-tool) |
+| 📄 PDF Tools | 10 | [Browse →](https://x8ys.com/category/pdf-tool) |
+| 📊 SEO Tools | 10 | [Browse →](https://x8ys.com/category/seo-tool) |
+| ✍️ Writing Tools | 10 | [Browse →](https://x8ys.com/category/writing-tool) |
+| ❤️ Lifestyle | 10 | [Browse →](https://x8ys.com/category/lifestyle-tool) |
+| 🔒 Privacy Tools | 8 | [Browse →](https://x8ys.com/category/privacy-tool) |
+| 🌐 Network Tools | 8 | [Browse →](https://x8ys.com/category/network-tool) |
+| 🎵 Audio Tools | 8 | [Browse →](https://x8ys.com/category/audio-tool) |
+| 🔐 Encryption | 8 | [Browse →](https://x8ys.com/category/encryption-tool) |
+| 🛒 E-commerce | 8 | [Browse →](https://x8ys.com/category/ecommerce-tool) |
+| 🎓 Education | 8 | [Browse →](https://x8ys.com/category/education-tool) |
+| 🎬 Video Tools | 7 | [Browse →](https://x8ys.com/category/video-tool) |
 
 ## 🔥 Popular Tools
 
@@ -83,3 +84,4 @@ We'd love to hear from you! If you have:
 This repository is for informational purposes. The website content and tools are © x8ys.com.
 
 See [LICENSE](LICENSE) for details.
+```
